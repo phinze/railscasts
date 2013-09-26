@@ -1,0 +1,10 @@
+{
+  "freighthop::languages": ["ruby"],
+  "freighthop::ruby_version": "1.9.3-p392",
+  "freighthop::packages": [
+    "mysql-server",
+    "libxml2-dev",
+    "libxslt1-dev",
+    "libmysqlclient-dev"
+  ]
+}
